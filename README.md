@@ -1,8 +1,9 @@
 # Pizza Sales Analysis Report
 
-### Dashboard Link : 
+### Dashboard Link : ![PIZZA SALES](https://github.com/user-attachments/assets/0192bda3-305b-4e57-93a4-1299f540e870)
 
-### Dashboard Link : 
+### Dashboard Link : ![PIZZA SALES1](https://github.com/user-attachments/assets/e1040977-78bf-4488-ba54-618c7cb34d8b)
+
 
 ## Problem Statement
 
